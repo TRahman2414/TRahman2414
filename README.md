@@ -1,7 +1,7 @@
-<div align="center">
-  <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-intro.mp4"><img src="./red-thread-intro.gif" alt="Play the cinematic Red Thread intro: a signal moves through kernel builds, security gates, detection, and evidence." width="100%" /></a><br />
+<p align="center">
+  <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-intro.mp4"><img src="./red-thread-intro.gif" alt="Cinematic Red Thread video: signal travels through kernel builds, security gates, detection, and evidence." width="100%" /></a><br />
   <sub>▶ Open the full 6-second video · <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-intro.mp4">MP4</a></sub>
-</div>
+</p>
 
 <p align="center">
   <strong>One thread across different layers.</strong><br />
