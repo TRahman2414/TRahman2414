@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-cinematic-v2.mp4"><img src="./red-thread-cinematic-v2.gif" alt="Cinematic red signal travels from an Android kernel through security gates and detection to an evidence seal. Visual concept, not live telemetry." width="100%" /></a><br />
-  <sub>▶ ▶ Play the full 8-second cinematic reel</sub>
+  <sub>▶ Play the full 8-second cinematic reel</sub>
 </p>
 
 <p align="center">
