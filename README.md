@@ -8,6 +8,14 @@
   Android/Linux systems · security automation · detection engineering
 </p>
 
+<p align="center">
+  <a href="#selected-builds"><code>01 / BUILD</code></a> &nbsp;→&nbsp;
+  <a href="https://github.com/TRahman2414/Devsecops-Security-Gate"><code>02 / HARDEN</code></a> &nbsp;→&nbsp;
+  <a href="https://github.com/TRahman2414/day-02-detection-engineering"><code>03 / DETECT</code></a> &nbsp;→&nbsp;
+  <a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release"><code>04 / EXPLAIN</code></a> &nbsp;→&nbsp;
+  <a href="#oqvian-group-cloud-security"><code>05 / OQVIAN</code></a>
+</p>
+
 I build and harden systems from Android kernels and CI security checks to detection rules and evidence-aware applications. I keep the work inspectable and make clear what has—and has not—been verified.
 
 ## Selected builds
