@@ -4,97 +4,98 @@
 </p>
 
 <p align="center">
-  <strong>One thread across different layers.</strong><br />
-  Android/Linux systems · security automation · detection engineering
+  <strong>I follow systems from the kernel outward.</strong><br />
+  Android/Linux → secure delivery → detection → evidence
 </p>
 
 <p align="center">
-  <a href="#selected-builds"><code>01 / BUILD</code></a> &nbsp;→&nbsp;
-  <a href="https://github.com/TRahman2414/Devsecops-Security-Gate"><code>02 / HARDEN</code></a> &nbsp;→&nbsp;
-  <a href="https://github.com/TRahman2414/day-02-detection-engineering"><code>03 / DETECT</code></a> &nbsp;→&nbsp;
-  <a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release"><code>04 / EXPLAIN</code></a> &nbsp;→&nbsp;
-  <a href="#oqvian-group-cloud-security"><code>05 / OQVIAN</code></a>
+  <a href="#oqvian-group-cloud-security"><code>01 / COMPANY</code></a> &nbsp;→&nbsp;
+  <a href="#selected-work"><code>02 / SELECTED WORK</code></a> &nbsp;→&nbsp;
+  <a href="#field-standard"><code>03 / FIELD STANDARD</code></a>
 </p>
 
-I build and harden systems from Android kernels and CI security checks to detection rules and evidence-aware applications. I keep the work inspectable and make clear what has—and has not—been verified.
+## OQVIAN Group · Cloud & Security
 
-## Selected builds
+<table>
+  <tr>
+    <td width="28%" align="center" valign="middle">
+      <a href="https://www.oqviangroup.com/"><img src="./oqvian-brand-orbit.gif" alt="Official OQVIAN monogram with a slow red orbital signal" width="176" /></a><br />
+      <strong>Cloud &amp; Security Lead</strong><br />
+      <sub>OQVIAN GROUP</sub>
+    </td>
+    <td width="72%" valign="middle">
+      <a href="https://www.oqviangroup.com/"><img src="./oqvian-company-banner.png" alt="OQVIAN Group: Intelligence. Infrastructure. Execution. AI agents, automation, cloud, cybersecurity, and custom web apps." width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://www.oqviangroup.com/ai"><code>AI</code></a> &nbsp;·&nbsp;
+      <a href="https://www.oqviangroup.com/automate"><code>AUTOMATION</code></a> &nbsp;·&nbsp;
+      <a href="https://www.oqviangroup.com/cloud"><code>CLOUD</code></a> &nbsp;·&nbsp;
+      <a href="https://www.oqviangroup.com/security"><code>SECURITY</code></a> &nbsp;·&nbsp;
+      <a href="https://www.oqviangroup.com/digital"><code>DIGITAL</code></a>
+    </td>
+  </tr>
+</table>
 
-The red thread runs through all six projects. Each card opens the project; team work is labeled so my role stays clear.
+At OQVIAN, I lead Cloud &amp; Security across secure infrastructure, application hardening, delivery automation, detection, and incident readiness. The company connects AI, workflow automation, cloud, security, and digital engineering. Its public work pages show illustrative architectures, and its demos use sample data.
+
+<p align="center">
+  <img src="./security-scan-slow.gif" alt="A slow red radar scan sweeps across security signals." width="100%" /><br />
+  <sub>OQVIAN security lens · identify → correlate → contain</sub>
+</p>
+
+## Selected work
+
+One thread runs through six builds: device kernels, secure delivery, detection rules, and evidence-led tools. The two Android kernel projects stay in this same lineup.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/helios-kernel"><img src="./cards/helios.gif" alt="Illustration for Helios Kernel" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/helios-kernel"><img src="./cards/helios.gif" alt="Helios Kernel signal animation" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/helios-kernel">01 · Helios Kernel</a></h3>
-      <p>Custom Android GKI kernel work for Xiaomi Redmi Note 12 4G, including stability patches and AnyKernel3 packaging. Check the project notes for build and device-validation status.</p>
+      <p>Android GKI work for Xiaomi Redmi Note 12 4G, including stability patches and AnyKernel3 packaging. The project notes distinguish build and packaging from device validation.</p>
       <sub>ANDROID · GKI · XIAOMI</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/larry-kernel"><img src="./cards/larry.gif" alt="Illustration for Larry Kernel" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/larry-kernel"><img src="./cards/larry.gif" alt="Larry Kernel signal animation" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/larry-kernel">02 · Larry Kernel</a></h3>
-      <p>Custom GKI 5.4 build and packaging workflow for OnePlus Nord CE 3 Lite. The repository records a successful build; device-function validation is still pending.</p>
+      <p>GKI 5.4 build and packaging workflow for OnePlus Nord CE 3 Lite. A successful build is recorded; device-function validation remains open.</p>
       <sub>ANDROID · GKI · ONEPLUS</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/Devsecops-Security-Gate"><img src="./cards/devsecops.gif" alt="Illustration for DevSecOps Security Gate" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/Devsecops-Security-Gate"><img src="./cards/devsecops.gif" alt="DevSecOps Security Gate signal animation" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/Devsecops-Security-Gate">03 · DevSecOps Security Gate</a></h3>
-      <p>FastAPI demo with CI checks for tests, secret scanning, CodeQL, Trivy, and CycloneDX SBOM generation. Workflow and artifact evidence are linked in the repository.</p>
+      <p>FastAPI demo with tests, secret scanning, CodeQL, Trivy, and CycloneDX SBOM generation. Workflow runs and artifacts make the checks inspectable.</p>
       <sub>PYTHON · CI/CD · SECURITY</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/day-02-detection-engineering"><img src="./cards/detection.gif" alt="Illustration for Detection-as-Code" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/day-02-detection-engineering"><img src="./cards/detection.gif" alt="Detection-as-Code signal animation" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/day-02-detection-engineering">04 · Detection-as-Code</a></h3>
-      <p>Sigma rules, MITRE ATT&amp;CK mapping, validation, and Splunk/Elasticsearch query conversion. Experimental portfolio work; no live SIEM testing is claimed.</p>
+      <p>Sigma rules, MITRE ATT&amp;CK mapping, automated validation, and Splunk/Elasticsearch query conversion. This is portfolio work, not a claim of live SIEM deployment.</p>
       <sub>SIGMA · MITRE ATT&amp;CK · SIEM</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release"><img src="./cards/oqvian.gif" alt="Illustration for OQVIAN Recall Remedy Review" width="100%" /></a>
+      <a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release"><img src="./cards/oqvian.gif" alt="OQVIAN Recall Remedy Review signal animation" width="100%" /></a>
       <h3><a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release">05 · OQVIAN Recall Remedy Review</a></h3>
-      <p><b>Team project.</b> My contribution focused on security and operations, including LinuxONE deployment evidence and authenticated-encrypted receipt work. The app helps a human reviewer inspect cited passages and unresolved facts; it does not decide product safety.</p>
+      <p><b>Team project.</b> My scope covered security and operations, including LinuxONE deployment evidence and encrypted receipt work. The tool helps a human inspect cited passages; it does not decide product safety.</p>
       <sub>TEAM · SECURITY · EVIDENCE</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ahnaf-Code55/firsthour-malaysia"><img src="./cards/firsthour.gif" alt="Illustration for FirstHour Malaysia" width="100%" /></a>
+      <a href="https://github.com/Ahnaf-Code55/firsthour-malaysia"><img src="./cards/firsthour.gif" alt="FirstHour Malaysia signal animation" width="100%" /></a>
       <h3><a href="https://github.com/Ahnaf-Code55/firsthour-malaysia">06 · FirstHour Malaysia</a></h3>
-      <p><b>Team project.</b> My area was backend hardening and security/privacy review for an English/Bangla post-scam response tool. AI extracts evidence-grounded facts; fixed, dated sources drive the action plan.</p>
+      <p><b>Team project.</b> My work focused on backend hardening and security/privacy review for an English/Bangla post-scam tool. AI extracts sourced facts; dated sources guide next steps.</p>
       <sub>TEAM · INCIDENT RESPONSE · PRIVACY</sub>
     </td>
   </tr>
 </table>
 
-## OQVIAN Group · Cloud & Security
+## Field standard
 
-<p align="center">
-  <a href="https://www.oqviangroup.com/"><img src="./oqvian-company-logo.svg" alt="OQVIAN Group logo" width="64" /></a><br />
-  <a href="https://www.oqviangroup.com/"><img src="./oqvian-company-banner.png" alt="OQVIAN: Intelligence. Infrastructure. Execution. AI agents, automation, cloud, cybersecurity, and custom web apps." width="100%" /></a><br />
-  <strong>Cloud &amp; Security Lead · OQVIAN Group</strong><br />
-  <a href="https://www.oqviangroup.com/">Company</a> ·
-  <a href="https://www.oqviangroup.com/ai">AI</a> ·
-  <a href="https://www.oqviangroup.com/automate">Automate</a> ·
-  <a href="https://www.oqviangroup.com/cloud">Cloud</a> ·
-  <a href="https://www.oqviangroup.com/security">Security</a> ·
-  <a href="https://www.oqviangroup.com/digital">Digital</a> ·
-  <a href="https://www.oqviangroup.com/work">Work &amp; reference architectures</a> ·
-  <a href="https://www.oqviangroup.com/demos">Interactive demos</a>
-</p>
+I keep three things separate: a successful build and device validation; a mapped detection and a live SIEM; my contribution and the team’s work.
 
-<p align="center">
-  <img src="./security-scan.gif" alt="Animated red radar scans security signals across authentication, kernels, networks, CI pipelines, and endpoints." width="100%" /><br />
-  <sub>OQVIAN security concept · detect · correlate · contain</sub>
-</p>
-
-At OQVIAN, I lead **Cloud and Security**. My work focuses on secure infrastructure, delivery automation, application hardening, detection, and incident readiness. OQVIAN brings five disciplines together: **AI, workflow automation, cloud, security, and digital engineering**. Its public work page shares illustrative architecture patterns, and its demos use sample data; neither is presented as a client case study.
-
-## How I work
-
-- Keep evidence close to the claim.
-- Separate a successful build from real-device validation.
-- Treat a converted detection rule as different from a live SIEM deployment.
-- Make privacy boundaries and known limits visible.
-
-<p align="center"><sub>Same thread. Different layers. Real impact starts with evidence.</sub></p>
+<p align="center"><sub>Build with intent. Follow the signal. Leave evidence behind.</sub></p>
