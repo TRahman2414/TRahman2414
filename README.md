@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-intro.mp4"><img src="./red-thread-intro.gif" alt="Cinematic Red Thread reel: a signal travels through kernel builds, security gates, detection, and evidence." width="100%" /></a><br />
-  <sub>▶ Open the full 6-second MP4</sub>
+  <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-cinematic.mp4"><img src="./red-thread-cinematic.gif" alt="Smooth red signal moves through build, harden, detect, and explain before the evidence seal closes. Visual concept, not live telemetry." width="100%" /></a><br />
+  <sub>▶ Open the full 8-second cinematic MP4</sub>
 </p>
 
 <p align="center">
