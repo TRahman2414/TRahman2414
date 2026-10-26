@@ -29,6 +29,12 @@ I build and harden systems from Android kernels and CI security checks to detect
   <a href="https://www.oqviangroup.com/demos">Interactive demos</a>
 </p>
 
+<p align="center">
+  <img src="./security-response.gif" alt="Cybersecurity response animation: a threat signal is detected, contained by a shield, and recorded as evidence." width="100%" />
+</p>
+
+<p align="center"><sub>Concept visual · detect → contain → preserve evidence</sub></p>
+
 At OQVIAN, I lead **Cloud and Security**. My work focuses on secure infrastructure, delivery automation, application hardening, detection, and incident readiness. OQVIAN brings five disciplines together: **AI, workflow automation, cloud, security, and digital engineering**. Its public work page shares illustrative architecture patterns, and its demos use sample data; neither is presented as a client case study.
 
 ## Selected builds
