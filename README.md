@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./red-thread-poster.gif" alt="Animated red signal moving through four stages: Build, Harden, Detect, and Explain." width="100%" />
+  <video src="https://github.com/TRahman2414/TRahman2414/raw/refs/heads/main/red-thread-intro.mp4" poster="https://github.com/TRahman2414/TRahman2414/raw/refs/heads/main/red-thread-intro.gif" width="100%" controls autoplay muted loop playsinline>
+    <img src="./red-thread-intro.gif" alt="Cinematic red signal moves through kernel builds, security gates, detection, and evidence." width="100%" />
+  </video><br />
+  <sub>6-second motion reel · <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-intro.mp4">Open full video</a></sub>
 </div>
 
 <p align="center">
