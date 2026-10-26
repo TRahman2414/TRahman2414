@@ -1,7 +1,9 @@
-<p align="center">
-  <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-intro.mp4"><img src="./red-thread-intro.gif" alt="Cinematic Red Thread video: signal travels through kernel builds, security gates, detection, and evidence." width="100%" /></a><br />
-  <sub>▶ Open the full 6-second video · <a href="https://github.com/TRahman2414/TRahman2414/blob/main/red-thread-intro.mp4">MP4</a></sub>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/f06eee2a-60fc-4ab3-a70c-33c3b5aad884" poster="https://raw.githubusercontent.com/TRahman2414/TRahman2414/main/red-thread-intro.gif" width="100%" controls autoplay muted loop playsinline>
+    <img src="./red-thread-intro.gif" alt="Cinematic Red Thread video: signal travels through kernel builds, security gates, detection, and evidence." width="100%" />
+  </video><br />
+  <sub>6-second Red Thread motion reel</sub>
+</div>
 
 <p align="center">
   <strong>One thread across different layers.</strong><br />
