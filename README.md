@@ -1,41 +1,13 @@
 <div align="center">
-  <img src="./red-thread-pulse.gif" alt="An animated red signal threads through systems layers, security checks, detection, and evidence." width="100%" />
+  <img src="./red-thread-poster.gif" alt="Animated red signal moving through four stages: Build, Harden, Detect, and Explain." width="100%" />
 </div>
-
-<h1 align="center">Tanjidur Rahman</h1>
 
 <p align="center">
   <strong>One thread across different layers.</strong><br />
   Android/Linux systems · security automation · detection engineering
 </p>
 
-<p align="center"><code>BUILD</code> <b>━━━</b> <code>HARDEN</code> <b>━━━</b> <code>DETECT</code> <b>━━━</b> <code>EXPLAIN</code></p>
-
 I build and harden systems from Android kernels and CI security checks to detection rules and evidence-aware applications. I keep the work inspectable and make clear what has—and has not—been verified.
-
-## OQVIAN Group · Cloud & Security
-
-<p align="center">
-  <a href="https://www.oqviangroup.com/"><img src="./oqvian-company-logo.svg" alt="OQVIAN Group logo" width="64" /></a><br />
-  <a href="https://www.oqviangroup.com/"><img src="./oqvian-company-banner.png" alt="OQVIAN: Intelligence. Infrastructure. Execution. AI agents, automation, cloud, cybersecurity, and custom web apps." width="100%" /></a><br />
-  <strong>Cloud &amp; Security Lead · OQVIAN Group</strong><br />
-  <a href="https://www.oqviangroup.com/">Company</a> ·
-  <a href="https://www.oqviangroup.com/ai">AI</a> ·
-  <a href="https://www.oqviangroup.com/automate">Automate</a> ·
-  <a href="https://www.oqviangroup.com/cloud">Cloud</a> ·
-  <a href="https://www.oqviangroup.com/security">Security</a> ·
-  <a href="https://www.oqviangroup.com/digital">Digital</a> ·
-  <a href="https://www.oqviangroup.com/work">Work &amp; reference architectures</a> ·
-  <a href="https://www.oqviangroup.com/demos">Interactive demos</a>
-</p>
-
-<p align="center">
-  <img src="./security-response.gif" alt="Cybersecurity response animation: a threat signal is detected, contained by a shield, and recorded as evidence." width="100%" />
-</p>
-
-<p align="center"><sub>Concept visual · detect → contain → preserve evidence</sub></p>
-
-At OQVIAN, I lead **Cloud and Security**. My work focuses on secure infrastructure, delivery automation, application hardening, detection, and incident readiness. OQVIAN brings five disciplines together: **AI, workflow automation, cloud, security, and digital engineering**. Its public work page shares illustrative architecture patterns, and its demos use sample data; neither is presented as a client case study.
 
 ## Selected builds
 
@@ -85,6 +57,29 @@ The red thread runs through all six projects. Each card opens the project; team 
     </td>
   </tr>
 </table>
+
+## OQVIAN Group · Cloud & Security
+
+<p align="center">
+  <a href="https://www.oqviangroup.com/"><img src="./oqvian-company-logo.svg" alt="OQVIAN Group logo" width="64" /></a><br />
+  <a href="https://www.oqviangroup.com/"><img src="./oqvian-company-banner.png" alt="OQVIAN: Intelligence. Infrastructure. Execution. AI agents, automation, cloud, cybersecurity, and custom web apps." width="100%" /></a><br />
+  <strong>Cloud &amp; Security Lead · OQVIAN Group</strong><br />
+  <a href="https://www.oqviangroup.com/">Company</a> ·
+  <a href="https://www.oqviangroup.com/ai">AI</a> ·
+  <a href="https://www.oqviangroup.com/automate">Automate</a> ·
+  <a href="https://www.oqviangroup.com/cloud">Cloud</a> ·
+  <a href="https://www.oqviangroup.com/security">Security</a> ·
+  <a href="https://www.oqviangroup.com/digital">Digital</a> ·
+  <a href="https://www.oqviangroup.com/work">Work &amp; reference architectures</a> ·
+  <a href="https://www.oqviangroup.com/demos">Interactive demos</a>
+</p>
+
+<p align="center">
+  <img src="./security-scan.gif" alt="Animated red radar scans security signals across authentication, kernels, networks, CI pipelines, and endpoints." width="100%" /><br />
+  <sub>OQVIAN security concept · detect · correlate · contain</sub>
+</p>
+
+At OQVIAN, I lead **Cloud and Security**. My work focuses on secure infrastructure, delivery automation, application hardening, detection, and incident readiness. OQVIAN brings five disciplines together: **AI, workflow automation, cloud, security, and digital engineering**. Its public work page shares illustrative architecture patterns, and its demos use sample data; neither is presented as a client case study.
 
 ## How I work
 
