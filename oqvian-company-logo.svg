@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">OQVIAN email avatar</title>
+  <desc id="desc">OQVIAN O and V monogram in a cyan, blue and violet gradient on a deep navy square.</desc>
+  <defs>
+    <radialGradient id="background" cx="70%" cy="24%" r="90%">
+      <stop offset="0" stop-color="#073272"/>
+      <stop offset=".46" stop-color="#031b42"/>
+      <stop offset="1" stop-color="#01091d"/>
+    </radialGradient>
+    <linearGradient id="oGradient" x1="392" y1="288" x2="688" y2="650" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#03e5ef"/>
+      <stop offset=".35" stop-color="#027efb"/>
+      <stop offset=".66" stop-color="#3154ff"/>
+      <stop offset="1" stop-color="#9008e6"/>
+    </linearGradient>
+    <linearGradient id="vGradient" x1="536" y1="349" x2="852" y2="660" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05e4f0"/>
+      <stop offset=".35" stop-color="#0099ff"/>
+      <stop offset=".68" stop-color="#5443ff"/>
+      <stop offset="1" stop-color="#9d02e0"/>
+    </linearGradient>
+    <linearGradient id="vEdge" x1="580" y1="350" x2="872" y2="657" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7cffff"/>
+      <stop offset=".48" stop-color="#7d9dff"/>
+      <stop offset="1" stop-color="#d04cff"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="15"/>
+    </filter>
+    <clipPath id="round"><rect width="512" height="512" rx="96"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="512" height="512" fill="url(#background)"/>
+    <circle cx="256" cy="257" r="216" fill="#0061e8" opacity=".11" filter="url(#softGlow)"/>
+    <g transform="translate(-245 -110) scale(.8)">
+      <!-- The ring and the overlapping V recreate the proportions of the supplied OQVIAN emblem. -->
+      <circle cx="548" cy="472" r="157" fill="none" stroke="#000716" stroke-width="65" opacity=".9"/>
+      <circle cx="548" cy="472" r="157" fill="none" stroke="url(#oGradient)" stroke-width="52"/>
+      <circle cx="548" cy="472" r="130" fill="none" stroke="#94efff" stroke-width="2" opacity=".44"/>
+      <path d="M 531,350 585,350 702,585 838,294 895,294 702,658 675,658 Z" fill="#000617" stroke="#000617" stroke-width="18" stroke-linejoin="miter"/>
+      <path d="M 531,350 585,350 702,585 838,294 895,294 702,658 675,658 Z" fill="url(#vGradient)" stroke="#020923" stroke-width="5" stroke-linejoin="miter"/>
+      <path d="M 539,354 582,354 702,598 841,298 887,298" fill="none" stroke="url(#vEdge)" stroke-width="3" opacity=".83"/>
+    </g>
+  </g>
+</svg>
