@@ -25,13 +25,13 @@ The red thread runs through all six projects. Each card opens the project; team 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/helios-kernel"><img src="./cards/helios.svg" alt="Illustration for Helios Kernel" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/helios-kernel"><img src="./cards/helios.gif" alt="Illustration for Helios Kernel" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/helios-kernel">01 · Helios Kernel</a></h3>
       <p>Custom Android GKI kernel work for Xiaomi Redmi Note 12 4G, including stability patches and AnyKernel3 packaging. Check the project notes for build and device-validation status.</p>
       <sub>ANDROID · GKI · XIAOMI</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/larry-kernel"><img src="./cards/larry.svg" alt="Illustration for Larry Kernel" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/larry-kernel"><img src="./cards/larry.gif" alt="Illustration for Larry Kernel" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/larry-kernel">02 · Larry Kernel</a></h3>
       <p>Custom GKI 5.4 build and packaging workflow for OnePlus Nord CE 3 Lite. The repository records a successful build; device-function validation is still pending.</p>
       <sub>ANDROID · GKI · ONEPLUS</sub>
@@ -39,13 +39,13 @@ The red thread runs through all six projects. Each card opens the project; team 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/Devsecops-Security-Gate"><img src="./cards/devsecops.svg" alt="Illustration for DevSecOps Security Gate" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/Devsecops-Security-Gate"><img src="./cards/devsecops.gif" alt="Illustration for DevSecOps Security Gate" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/Devsecops-Security-Gate">03 · DevSecOps Security Gate</a></h3>
       <p>FastAPI demo with CI checks for tests, secret scanning, CodeQL, Trivy, and CycloneDX SBOM generation. Workflow and artifact evidence are linked in the repository.</p>
       <sub>PYTHON · CI/CD · SECURITY</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/TRahman2414/day-02-detection-engineering"><img src="./cards/detection.svg" alt="Illustration for Detection-as-Code" width="100%" /></a>
+      <a href="https://github.com/TRahman2414/day-02-detection-engineering"><img src="./cards/detection.gif" alt="Illustration for Detection-as-Code" width="100%" /></a>
       <h3><a href="https://github.com/TRahman2414/day-02-detection-engineering">04 · Detection-as-Code</a></h3>
       <p>Sigma rules, MITRE ATT&amp;CK mapping, validation, and Splunk/Elasticsearch query conversion. Experimental portfolio work; no live SIEM testing is claimed.</p>
       <sub>SIGMA · MITRE ATT&amp;CK · SIEM</sub>
@@ -53,13 +53,13 @@ The red thread runs through all six projects. Each card opens the project; team 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release"><img src="./cards/oqvian.svg" alt="Illustration for OQVIAN Recall Remedy Review" width="100%" /></a>
+      <a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release"><img src="./cards/oqvian.gif" alt="Illustration for OQVIAN Recall Remedy Review" width="100%" /></a>
       <h3><a href="https://github.com/Ahnaf-Code55/oqvian-recall-remedy-review-release">05 · OQVIAN Recall Remedy Review</a></h3>
       <p><b>Team project.</b> My contribution focused on security and operations, including LinuxONE deployment evidence and authenticated-encrypted receipt work. The app helps a human reviewer inspect cited passages and unresolved facts; it does not decide product safety.</p>
       <sub>TEAM · SECURITY · EVIDENCE</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ahnaf-Code55/firsthour-malaysia"><img src="./cards/firsthour.svg" alt="Illustration for FirstHour Malaysia" width="100%" /></a>
+      <a href="https://github.com/Ahnaf-Code55/firsthour-malaysia"><img src="./cards/firsthour.gif" alt="Illustration for FirstHour Malaysia" width="100%" /></a>
       <h3><a href="https://github.com/Ahnaf-Code55/firsthour-malaysia">06 · FirstHour Malaysia</a></h3>
       <p><b>Team project.</b> My area was backend hardening and security/privacy review for an English/Bangla post-scam response tool. AI extracts evidence-grounded facts; fixed, dated sources drive the action plan.</p>
       <sub>TEAM · INCIDENT RESPONSE · PRIVACY</sub>
